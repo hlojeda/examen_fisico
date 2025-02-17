@@ -12,12 +12,27 @@
       ]
   },
   {
-      "termino": "examen fisico normal uci noche",
+      "termino": "examen fisico normal OXIGENO AL AMBIENTE VIA ORAL uci noche",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
           "mucosas: húmedas",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
           "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+          "TOLERANDO LA  VIA  ORAL"
+      ]
+  },
+  {
+      "termino": "examen fisico normal OXIGENO CANULA NASAL uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: RESPIRA OXÍGENO POR CANULA NASAL, SATURACIÓN DEL 97%",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
           "glucometrias:   mg/dl",
           "diuresis:   ml/h",
@@ -99,7 +114,7 @@
       "termino": "examen fisico  deshidratacion deshidratado mucosas secas hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: secas",
+          "MUCOSAS: SECAS",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
           "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
