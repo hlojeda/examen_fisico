@@ -1,0 +1,176 @@
+[
+  {
+      "termino": "examen fisico normal hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico normal uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico ventilacion mecanica uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
+   {
+      "termino": "examen fisico ventilacion mecanica norepinefrina uci noche*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "CON VASOACTIVO",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
+  {
+      "termino": "gend*",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico estertores hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: se auscultan estertores en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico broncoespasmo hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico roncus hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: se auscultan roncus en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico taquicardia hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, taquicárdicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico fibrilacion hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos arrítmicos, respuesta rápida, sin sobreagregados",
+          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico ascitis hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos arrítmicos, respuesta rápida, sin sobreagregados",
+          "pulmonar: murmullo vesicular disminuido con broncoespasmo en ambos campos pulmonares",
+          "abdomen: globoso, onda ascítica positiva",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico somnolencia hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: somnolencia, sin déficit motor ni sensitivo aparentes"
+      ]
+  },
+  {
+      "termino": "examen fisico desorientacion hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: desorientación, sin déficit motor ni sensitivo aparentes"
+      ]
+  },
+  {
+      "termino": "examen fisico estupor hospitalizacion",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: estupor, respuesta al dolor"
+      ]
+  }
+]
