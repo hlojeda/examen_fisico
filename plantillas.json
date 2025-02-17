@@ -26,7 +26,7 @@
       ]
   },
   {
-      "termino": "examen fisico ventilacion mecanica uci noche",
+      "termino": "examen fisico ventilador uci noche",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "mucosas: húmedas",
@@ -40,7 +40,7 @@
       ]
   },
    {
-      "termino": "examen fisico ventilacion mecanica norepinefrina uci noche*",
+      "termino": "examen fisico ventilador vasoactivo uci noche",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "CON VASOACTIVO",
@@ -138,7 +138,7 @@
       ]
   },
   {
-      "termino": "examen fisico somnolencia hospitalizacion",
+      "termino": "examen fisico neuro somnolencia hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
           "mucosas: húmedas",
@@ -150,7 +150,7 @@
       ]
   },
   {
-      "termino": "examen fisico desorientacion hospitalizacion",
+      "termino": "examen fisico neuro desorientacion hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
           "mucosas: húmedas",
@@ -162,7 +162,7 @@
       ]
   },
   {
-      "termino": "examen fisico estupor hospitalizacion",
+      "termino": "examen fisico neuro estupor hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
           "mucosas: húmedas",
