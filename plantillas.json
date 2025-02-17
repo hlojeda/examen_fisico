@@ -31,7 +31,7 @@
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "mucosas: húmedas",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "pulmonar: En VENTILACION MECANICA, MODO: ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
           "glucometrias:   mg/dl",
           "diuresis:   ml/h",
@@ -43,9 +43,23 @@
       "termino": "examen fisico ventilador vasoactivo norepi norepinefrina  uci noche",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
-          "CON VASOACTIVO",
+          "con infusion de NOREPINEFRINA",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "pulmonar: En VENTILACION MECANICA, MODO: ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
+  {
+      "termino": "examen fisico vasoactivo norepi norepinefrina  uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "con infusion de NOREPINEFRINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: respira  oxigeno por CANULA NASAL, SATURACIÓN DEL 97%",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
           "glucometrias:   mg/dl",
           "diuresis:   ml/h",
@@ -59,12 +73,26 @@
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "CON INFUSION DE NOREPINEFRINA  y VASOPRESINA",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "pulmonar: En VENTILACION MECANICA, MODO: ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
           "glucometrias:   mg/dl",
           "diuresis:   ml/h",
           "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
           "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
+  {
+      "termino": "examen fisico vasoactivo vasopresina  vaso norepi norepinefrina  uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "CON INFUSION DE NOREPINEFRINA  y VASOPRESINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: respira  oxigeno por CANULA NASAL, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: sin deficit  motor  ni sensitivo aparente"
       ]
   },
   {
