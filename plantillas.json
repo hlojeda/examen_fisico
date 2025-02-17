@@ -53,11 +53,25 @@
           "neurologico: en sedoanalgesia , rass -3"
       ]
   },
+   {
+      "termino": "examen fisico ventilador vasoactivo vasopresina  vaso norepi norepinefrina  uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "CON INFUSION DE NOREPINEFRINA  y VASOPRESINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: en respirador  ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3"
+      ]
+  },
   {
-      "termino": "gend*",
+      "termino": "examen fisico  deshidratacion deshidratado mucosas secas hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
-          "mucosas: húmedas",
+          "mucosas: secas",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
           "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
@@ -90,7 +104,7 @@
       ]
   },
   {
-      "termino": "examen fisico roncus hospitalizacion",
+      "termino": "examen fisico roncus roncos hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
           "mucosas: humedas",
@@ -111,6 +125,20 @@
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
           "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
           "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
+      "termino": "examen fisico amiodarona fibrilacion uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos ARRITMICOS, sin sobreagregados con infusion de  AMIODARONA",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+         "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+         "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
       ]
   },
   {
