@@ -185,6 +185,20 @@
       ]
   },
   {
+      "termino": "examen fisico amiodarona fibrilacion Ventilador uci noche",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos ARRITMICOS, sin sobreagregados con infusion de  AMIODARONA",
+          "pulmonar: En VENTILACION MECANICA, MODO: ac/vc fio2=  peep=  , saturacion = 96%",
+         "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+         "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
       "termino": "examen fisico fibrilacion hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
