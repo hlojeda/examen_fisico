@@ -1,5 +1,30 @@
 [
   {
+      "termino": "examen fisico NORMAL UCI DIA",
+      "significado":[
+        "EVOLUCION UCI DIA",
+        "DIAGNOSTICOS:",
+        " ",
+        "JUSTIFICACION":",
+        " ",
+        "EXAMEN FÍSICO CON EPP, luce en BUENAS condiciones generales.",
+        "mucosas: húmedas",
+        "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+        "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, Saturación 97%",
+        "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+        "glucometrias:   mg/dl",
+        "diuresis:   ml/h",
+        "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+        "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+        "tolerando la  via  oral"
+        " ",
+        "ANALISIS:",
+        "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+        " ",
+        "PLAN:"
+      ]
+  },
+  {
       "termino": "examen fisico normal hospitalizacion",
       "significado": [
           "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
