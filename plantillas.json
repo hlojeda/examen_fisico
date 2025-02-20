@@ -1,11 +1,30 @@
 [
   {
-      "termino": "examen fisico NORMAL UCI DIA",
+      "termino": "examen fisico normal hospitalizacion",
       "significado": [
-        "EVOLUCION UCI DIA",
+          "MEDICINA INTERNA",
+          "DIAGNOSTICOS:",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+          " ",
+          "ANALISIS:",
+          "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          " "
+      ]
+  },
+  {
+      "termino": "examen fisico NORMAL UCI NOCHE",
+      "significado": [
+        "EVOLUCION NOCHE",
         "DIAGNOSTICOS:",
-        " ",
-        "JUSTIFICACION:",
         " ",
         "EXAMEN FÍSICO CON EPP, luce en BUENAS condiciones generales.",
         "mucosas: húmedas",
@@ -26,24 +45,79 @@
       ]
   },
   {
-      "termino": "examen fisico normal hospitalizacion",
+      "termino": "examen fisico NORMAL UCI DIA",
       "significado": [
-          "MEDICINA INTERNA",
-          "DIAGNOSTICOS:",
-          " ",
-          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
-          " ",
-          "ANALISIS:",
-          "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
-          " ",
-          "PLAN:",
-          " "
+        "EVOLUCION UCI DIA",
+        "DIAGNOSTICOS:",
+        " ",
+        "JUSTIFICACION:",
+        " ",
+        "EXAMEN FÍSICO CON EPP, luce en BUENAS condiciones generales.",
+        "mucosas: húmedas",
+        "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+        "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, Saturación 97%",
+        "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+        "glucometrias:   mg/dl",
+        "diuresis:   ml/Kg/h, Balance:  ",
+        "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+        "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+        "tolerando la  via  oral",
+        " ",
+        "ANALISIS:",
+        "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+        " ",
+        "PLAN:",
+        " "
+      ]
+  },
+  {
+      "termino": "examen fisico NORMAL UCIN NOCHE",
+      "significado": [
+        "EVOLUCION NOCHE",
+        "DIAGNOSTICOS:",
+        " ",
+        "EXAMEN FÍSICO CON EPP, luce en BUENAS condiciones generales.",
+        "mucosas: húmedas",
+        "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+        "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, Saturación 97%",
+        "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+        "glucometrias:   mg/dl",
+        "diuresis:   ml/h",
+        "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+        "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+        "tolerando la  via  oral",
+        " ",
+        "ANALISIS:",
+        "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+        " ",
+        "PLAN:",
+        " "
+      ]
+  },
+  {
+      "termino": "examen fisico NORMAL UCIN DIA",
+      "significado": [
+        "EVOLUCION UCIN DIA",
+        "DIAGNOSTICOS:",
+        " ",
+        "JUSTIFICACION:",
+        " ",
+        "EXAMEN FÍSICO CON EPP, luce en BUENAS condiciones generales.",
+        "mucosas: húmedas",
+        "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+        "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, Saturación 97%",
+        "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+        "glucometrias:   mg/dl",
+        "diuresis:   ml/Kg/h, Balance:  ",
+        "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+        "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+        "tolerando la  via  oral",
+        " ",
+        "ANALISIS:",
+        "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+        " ",
+        "PLAN:",
+        " "
       ]
   },
   {
@@ -76,8 +150,37 @@
       ]
   },
   {
-      "termino": "examen fisico ventilador uci noche",
+      "termino": "examen fisico VENTILADOR uci DIA",
       "significado": [
+          "EVOLUCION UCI DIA",
+          "DIAGNOSTICOS:",
+          " ",
+          "JUSTIFICACION:",
+          "Soporte Ventilatorio",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "mucosas: húmedas",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: En VENTILACION MECANICA, MODO: ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/Kg/h", Baalance :  ,
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          ""
+      ]
+  },
+  {
+      "termino": "examen fisico VENTILADOR uci NOCHE",
+      "significado": [
+          "EVOLUCION NOCHE",
+          "DIAGNOSTICOS:",
+          " ",
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "mucosas: húmedas",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
@@ -86,12 +189,48 @@
           "glucometrias:   mg/dl",
           "diuresis:   ml/h",
           "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: en sedoanalgesia , rass -3"
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE continuara vigilancia estricta, se  solicitan Laboratorios  1  am",
+          " ",
+          "PLAN:",
+          "se  solicitan Laboratorios  1  am "
       ]
   },
    {
-      "termino": "examen fisico ventilador vasoactivo norepi norepinefrina  uci noche",
+      "termino": "examen fisico VENTILADOR vasoactivo norepi NOREPINEFRINA  uci DIA",
       "significado": [
+           "EVOLUCION UCI DIA",
+          "DIAGNOSTICOS:",
+          " ",
+          "JUSTIFICACION:",
+          "Soporte Ventilatorio",
+          "Soporte Vasoactivo",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "con infusion de NOREPINEFRINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: En VENTILACION MECANICA, MODO: ac/vc fio2=  peep=  , SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/Kg/h,  Balance :   ",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          ""
+      ]
+  },
+  {
+      "termino": "examen fisico VENTILADOR vasoactivo norepi NOREPINEFRINA  uci noche",
+      "significado": [
+          "EVOLUCION NOCHE",
+          "DIAGNOSTICOS:",
+          " ",
           "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
           "con infusion de NOREPINEFRINA",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
@@ -100,7 +239,12 @@
           "glucometrias:   mg/dl",
           "diuresis:   ml/h",
           "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: en sedoanalgesia , rass -3"
+          "neurologico: en sedoanalgesia , rass -3",
+          "ANALISIS:",
+          "SE continuara vigilancia estricta, se  solicitan Laboratorios  1  am",
+          " ",
+          "PLAN:",
+          "se  solicitan Laboratorios  1  am "
       ]
   },
   {
