@@ -21,19 +21,29 @@
         "ANALISIS:",
         "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
         " ",
-        "PLAN:"
+        "PLAN:",
+        " "
       ]
   },
   {
       "termino": "examen fisico normal hospitalizacion",
       "significado": [
+          "MEDICINA INTERNA",
+          "DIAGNOSTICOS:",
+          " ",
           "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
           "mucosas: húmedas",
           "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
           "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
           "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
           "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
+          " ",
+          "ANALISIS:",
+          "SE EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          " "
       ]
   },
   {
