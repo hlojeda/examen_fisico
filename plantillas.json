@@ -121,35 +121,6 @@
       ]
   },
   {
-      "termino": "examen fisico normal OXIGENO AL AMBIENTE VIA ORAL uci noche",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: RESPIRA OXÍGENO AL AMBIENTE, SATURACIÓN DEL 97%",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "glucometrias:   mg/dl",
-          "diuresis:   ml/h",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades",
-          "TOLERANDO LA  VIA  ORAL"
-      ]
-  },
-  {
-      "termino": "examen fisico normal OXIGENO CANULA NASAL uci noche",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en BUENAS CONDICIONES GENERALES.",
-          "mucosas: húmedas",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: RESPIRA OXÍGENO POR CANULA NASAL, SATURACIÓN DEL 97%",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "glucometrias:   mg/dl",
-          "diuresis:   ml/h",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
-      ]
-  },
-  {
       "termino": "examen fisico VENTILADOR uci DIA",
       "significado": [
           "EVOLUCION UCI DIA",
@@ -228,7 +199,7 @@
   {
       "termino": "examen fisico OXIGENO AL AMBIENTE vasoactivo norepi NOREPINEFRINA  uci DIA",
       "significado": [
-           "EVOLUCION UCI DIA",
+          "EVOLUCION UCI DIA",
           "DIAGNOSTICOS:",
           " ",
           "JUSTIFICACION:",
@@ -254,7 +225,7 @@
   {
       "termino": "examen fisico OXIGENO por CANULA vasoactivo norepi NOREPINEFRINA  uci DIA",
       "significado": [
-           "EVOLUCION UCI DIA",
+          "EVOLUCION UCI DIA",
           "DIAGNOSTICOS:",
           " ",
           "JUSTIFICACION:",
@@ -303,7 +274,7 @@
   {
       "termino": "examen fisico OXIGENO POR CANULA NASAL vasoactivo norepi NOREPINEFRINA  uci NOCHE",
       "significado": [
-           "EVOLUCION UCI DIA",
+          "EVOLUCION NOCHE",
           "DIAGNOSTICOS:",
           " ",
           "JUSTIFICACION:",
@@ -320,16 +291,17 @@
           "neurologico: en sedoanalgesia , rass -3",
           " ",
           "ANALISIS:",
-          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          "SE continuara vigilancia estricta, se  solicitan Laboratorios  1  am",
           " ",
           "PLAN:",
-          ""
+          "",
+          "se  solicitan Laboratorios  1  am "
       ]
   },
   {
       "termino": "examen fisico OXIGENO AL AMBIENTE vasoactivo norepi NOREPINEFRINA  uci NOCHE",
       "significado": [
-           "EVOLUCION UCI DIA",
+          "EVOLUCION NOCHE",
           "DIAGNOSTICOS:",
           " ",
           "JUSTIFICACION:",
@@ -346,24 +318,11 @@
           "neurologico: en sedoanalgesia , rass -3",
           " ",
           "ANALISIS:",
-          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          "SE continuara vigilancia estricta, se  solicitan Laboratorios  1  am",
           " ",
           "PLAN:",
-          ""
-      ]
-  },
-  {
-      "termino": "examen fisico vasoactivo norepi norepinefrina  uci noche",
-      "significado": [
-          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
-          "con infusion de NOREPINEFRINA",
-          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
-          "pulmonar: respira  oxigeno por CANULA NASAL, SATURACIÓN DEL 97%",
-          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
-          "glucometrias:   mg/dl",
-          "diuresis:   ml/h",
-          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
-          "neurologico: en sedoanalgesia , rass -3"
+          "",
+          "se  solicitan Laboratorios  1  am "
       ]
   },
    {
