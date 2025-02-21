@@ -226,6 +226,58 @@
       ]
   },
   {
+      "termino": "examen fisico OXIGENO AL AMBIENTE vasoactivo norepi NOREPINEFRINA  uci DIA",
+      "significado": [
+           "EVOLUCION UCI DIA",
+          "DIAGNOSTICOS:",
+          " ",
+          "JUSTIFICACION:",
+          "Soporte Vasoactivo",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "con infusion de NOREPINEFRINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: respira OXIGENO AL AMBIENTE, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/Kg/h,  Balance :   ",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          ""
+      ]
+  },
+  {
+      "termino": "examen fisico OXIGENO por CANULA vasoactivo norepi NOREPINEFRINA  uci DIA",
+      "significado": [
+           "EVOLUCION UCI DIA",
+          "DIAGNOSTICOS:",
+          " ",
+          "JUSTIFICACION:",
+          "Soporte Vasoactivo",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en malas CONDICIONES GENERALES.",
+          "con infusion de NOREPINEFRINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: respira OXIGENO POR  CANULA NASAL, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/Kg/h,  Balance :   ",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          ""
+      ]
+  },
+  {
       "termino": "examen fisico VENTILADOR vasoactivo norepi NOREPINEFRINA  uci noche",
       "significado": [
           "EVOLUCION NOCHE",
@@ -246,6 +298,58 @@
           " ",
           "PLAN:",
           "se  solicitan Laboratorios  1  am "
+      ]
+  },
+  {
+      "termino": "examen fisico OXIGENO POR CANULA NASAL vasoactivo norepi NOREPINEFRINA  uci NOCHE",
+      "significado": [
+           "EVOLUCION UCI DIA",
+          "DIAGNOSTICOS:",
+          " ",
+          "JUSTIFICACION:",
+          "Soporte Vasoactivo",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
+          "con infusion de NOREPINEFRINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: soporte de OXIGENO POR CANULA NASAL, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          ""
+      ]
+  },
+  {
+      "termino": "examen fisico OXIGENO AL AMBIENTE vasoactivo norepi NOREPINEFRINA  uci NOCHE",
+      "significado": [
+           "EVOLUCION UCI DIA",
+          "DIAGNOSTICOS:",
+          " ",
+          "JUSTIFICACION:",
+          "Soporte Vasoactivo",
+          " ",
+          "EXAMEN FÍSICO CON EPP, luce en REGULARES CONDICIONES GENERALES.",
+          "con infusion de NOREPINEFRINA",
+          "cardiaco: ruidos cardiacos rítmicos, sin sobreagregados",
+          "pulmonar: respira OXIGENO AL AMBIENTE, SATURACIÓN DEL 97%",
+          "abdomen: abdomen blando, depresible, sin masas, peristaltismo presente",
+          "glucometrias:   mg/dl",
+          "diuresis:   ml/h",
+          "extremidades: sin edemas, llenado capilar menor de 2.5 segundos",
+          "neurologico: en sedoanalgesia , rass -3",
+          " ",
+          "ANALISIS:",
+          "SE Continuara  vigilancia  estricta. se EXPLICA A FAMILIAR SITUACIÓN ACTUAL Y PLAN DE MANEJO, PARECE ENTENDERLO",
+          " ",
+          "PLAN:",
+          ""
       ]
   },
   {
