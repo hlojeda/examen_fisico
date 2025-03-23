@@ -21,6 +21,18 @@
       ]
   },
   {
+      "termino": "examen fisico anasarca hospitalización",
+      "significado": [
+          "EXAMEN FÍSICO CON EPP, luce en regulares CONDICIONES GENERALES.",
+          "mucosas: humedas",
+          "cardiaco: ruidos cardiacos rítmicos, taquicárdicos, sin sobreagregados",
+          "pulmonar: murmullo vesicular limpio en ambos campos pulmonares",
+          "abdomen: ascitis, peristaltismo presente",
+          "extremidades: edema grado Iii de miembros inferiores ",
+          "neurologico: alerta, sin déficit motor ni sensitivo aparentes, moviliza 4 extremidades"
+      ]
+  },
+  {
       "termino": "examen fisico NORMAL UCI NOCHE",
       "significado": [
         "EVOLUCION NOCHE",
